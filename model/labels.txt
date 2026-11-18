@@ -1,0 +1,10 @@
+0 Baseball
+1 Basketball
+2 Billiards
+3 Bowling
+4 Cricket
+5 Football
+6 Golf
+7 Rugby
+8 Tennis
+9 Volleyball
